@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/stutiinchrist2805/Leetcode-Question-Submission/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/stutiinchrist2805/Leetcode-Question-Submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/stutiinchrist2805/Leetcode-Question-Submission/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/stutiinchrist2805/Leetcode-Question-Submission/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/stutiinchrist2805/Leetcode-Question-Submission/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
